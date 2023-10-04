@@ -2,6 +2,8 @@
 
 This is an example program demonstrating the abstract factory pattern implemented in C#. The program showcases how the abstract factory pattern can be utilized to create different types of payment authorization and transfer objects for two different payment systems: Credit Card and PayPal.
 
+![Logo](uml-payment.svg)
+
 ### Abstract Products
 
 The program defines two interfaces as abstract products:
