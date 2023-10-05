@@ -6,6 +6,8 @@ The **Abstract Factory Pattern** is a creational design pattern that provides an
 ## Introduction
 The Abstract Factory Pattern is a creational pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. It is useful when you need to create families of related objects that work seamlessly with each other as a group and have consistent behavior.
 
+![Logo](Abstract-Factory.svg)
+
 ## Components of the Abstract Factory Design Pattern in C#
 The Abstract Factory pattern has four main components:
 1. **Abstract Factory**: Declares an interface for operations that create abstract objects.
